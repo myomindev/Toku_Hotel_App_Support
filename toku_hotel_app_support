@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Support - Tokuhotel</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { color: #0070c9; }
+    </style>
+</head>
+<body>
+    <h1>Tokuhotel App Support</h1>
+    <p>For support, please contact us at: <a href="mailto:myominkoko22jp@gmail.com">myominkoko22jp@gmail.com</a></p>
+    <p><a href="privacy.html">View Privacy Policy</a></p>
+</body>
+</html>
