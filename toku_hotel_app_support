@@ -2,15 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Support - Tokuhotel</title>
     <style>
         body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
         h1 { color: #0070c9; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #777; }
     </style>
 </head>
 <body>
     <h1>Tokuhotel App Support</h1>
-    <p>For support, please contact us at: <a href="mailto:myominkoko22jp@gmail.com">myominkoko22jp@gmail.com</a></p>
-    <p><a href="privacy.html">View Privacy Policy</a></p>
+    <p>Thank you for using Tokuhotel. If you need any assistance or have questions, please feel free to reach out to our support team.</p>
+    <p><strong>Email:</strong> <a href="mailto:myominkoko22jp@gmail.com">myominkoko22jp@egmail.com</a></p>
+    <hr>
+    <p><a href="privacy.html">View our Privacy Policy</a></p>
+    <div class="footer">© 2026 Tokuhotel. All rights reserved.</div>
 </body>
 </html>
